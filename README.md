@@ -67,15 +67,7 @@
   </a>
 </p>
 
-<div>
-  <img align="left" width="450px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksel588&show_icons=true&locale=en&layout=compact" alt="akse1588" />
-</div>
 
-<div>
-  <img align="right" width="450px" height="300px" src="https://github-readme-stats.vercel.app/api?username=aksel588&show_icons=true&locale=en" alt="akse1588" />
-</div>
 
-<div>
-  <img align="center" width="850px" height="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aksel588&" alt="akse1588" />
-</div>
+
 
