@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aksel</h1>
 <h3 align="center">"👨‍💻 15-year-old full-stack web dev 🌐 | Armenia 🇦🇲"</h3>
-<img align=”right” alt=”Coding” width=”400px” src=”https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif”/>
+<img align=”right” alt=”Coding” width=”400px” src=”https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fanimated-man-computer-coding-nae6mec378lsg1i3.html&psig=AOvVaw0gNDSEzKIQlEtb67cgaOGS&ust=1711644851356000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi5vo70lIUDFQAAAAAdAAAAABAR”/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akse1588&label=Profile%20views&color=0e75b6&style=flat" alt="akse1588" /> </p>
 
