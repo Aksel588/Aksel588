@@ -1,4 +1,4 @@
-![Web development](https://github.com/Aksel588/Aksel588/blob/main/Aksel.png)
+![Web development]([https://github.com/Aksel588/Aksel588/blob/main/Aksel.png](https://github.com/Aksel588/Aksel588/blob/main/Untitled%20design.png))
  
 ### Hi there 👋, Aksel
 #### Web development
