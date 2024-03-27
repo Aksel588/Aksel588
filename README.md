@@ -68,9 +68,9 @@
 </p>
 
 
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksel588&show_icons=true&locale=en&layout=compact" alt="aksel588" /></p>
-
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=aksel588&show_icons=true&locale=en" alt="akse1588" /></p>
+<p style="text-align: center;">
+  <img style="max-width: 100%; height: auto; display: block; margin: 0px auto;" width="700px" src="https://github-readme-streak-stats.herokuapp.com/?user=aksel588&" alt="akse1588" />
+</p>
 
 
 
