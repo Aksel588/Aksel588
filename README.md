@@ -4,15 +4,21 @@
 #### Web development
 "👨‍💻 15-year-old full-stack web dev 🌐 | Armenia 🇦🇲| Let's build something awesome! 🚀"
 
- ##Skills: 
+ ##Skills
   ## FrontEnd
   * HTML
   * CSS
-  * JS
+  * BOOTSTRAP
+  * JavaScript
+  * JQuery
+  * Ajax
  ## Backend
  * PHP
+ * OOP
  * MYSQL
- * Laravel
+ * MVC
+ * LARAVEL
+
 
 - 🔭 I’m currently working on My website Nous for shopping 
 - 🌱 I’m currently learning in  college 
