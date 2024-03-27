@@ -2,7 +2,10 @@
 #### Web development
 "👨‍💻 15-year-old full-stack web dev 🌐 | Armenia 🇦🇲| Let's build something awesome! 🚀"
 
-Skills: | HTML, CSS, JS, PHP, MySQL 💻 
+   PHP, MySQL 💻 
+ ## Skills: 
+ * 💻 HTML, CSS, JS
+ * </> PHP, MySQL
 
 - 🔭 I’m currently working on My website Nous for shopping 
 - 🌱 I’m currently learning in  college 
