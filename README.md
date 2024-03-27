@@ -1,7 +1,7 @@
 ![Web development](https://github.com/Aksel588/Aksel588/blob/main/Untitled%20design.png)
  
-### Hi there 👋, Aksel
-#### Web development
+## Hi there 👋, Aksel
+## Web development
 "👨‍💻 15-year-old full-stack web dev 🌐 | Armenia 🇦🇲| Let's build something awesome! 🚀"
 
  ##Skills
