@@ -1,10 +1,18 @@
+![Web development](https://github.com/Aksel588/Aksel588/blob/main/Aksel.png)
+ 
 ### Hi there 👋, Aksel
 #### Web development
-![Web development](https://github.com/Aksel588/Aksel588/blob/main/Aksel.png)
-
 "👨‍💻 15-year-old full-stack web dev 🌐 | Armenia 🇦🇲| Let's build something awesome! 🚀"
 
-Skills: | HTML, CSS, JS, PHP, MySQL 💻 
+ ####Skills: 
+  ## FrontEnd
+  * HTML
+  * CSS
+  * JS
+ ## Backend
+ * PHP
+ * MYSQL
+ * Laravel
 
 - 🔭 I’m currently working on My website Nous for shopping 
 - 🌱 I’m currently learning in  college 
