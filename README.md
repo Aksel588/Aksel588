@@ -2,9 +2,9 @@
  
 ## Hi there 👋, Aksel
 ## Web development
-"👨‍💻 15-year-old full-stack web dev 🌐 | Armenia 🇦🇲| Let's build something awesome! 🚀"
+####"👨‍💻 15-year-old full-stack web dev 🌐 | Armenia 🇦🇲| Let's build something awesome! 🚀"
 
- ##Skills
+ ####Skills
   ## FrontEnd
   * HTML
   * CSS
