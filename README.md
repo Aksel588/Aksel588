@@ -3,7 +3,7 @@
 ## Hi there 👋, Aksel
 ## Web development
 "👨‍💻 15-year-old full-stack web dev 🌐 | Armenia 🇦🇲| Let's build something awesome! 🚀"
-([link](http://youtube.com))
+(**([Leetcode]([http://youtube.com](https://leetcode.com/akse1588/)))**)
   ## FrontEnd
   * HTML
   * CSS
