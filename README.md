@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aksel</h1>
 <h3 align="center">"👨‍💻 15-year-old | full-stack web dev 🌐 | Armenia 🇦🇲 | HTML, CSS/BOOTSTRAP, JS/JQuery/Ajax, PHP/OOP, MySQL, Python, LARAVEL 💻 | Let's build something awesome! 🚀"</h3>
 - 🌱 I’m currently learning **in College**
-- 💬 Ask me about **PHP JS LARAVEL**
+- 💬 Ask me about PHP/OOP, JS, LARAVEL, Python, MySQL
 
 
 <div> <a href="https://twitter.com/@AkselDeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
