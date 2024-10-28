@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Aksel</h1>
-<h3 align="center">"👨‍💻 16-year-old | full-stack web dev 🌐 | Armenia 🇦🇲 | HTML, CSS/BOOTSTRAP, JS/JQuery/Ajax, PHP/OOP, MySQL, Python, LARAVEL 💻 | Let's build something awesome! 🚀"</h3>
-- 🌱 I’m currently learning **in College**
-- 💬 Ask me about PHP/OOP, JS, LARAVEL, Python, MySQL
+<h3 align="center">👨‍💻 16-year-old | full-stack web dev 🌐 | Armenia 🇦🇲 | HTML, CSS/BOOTSTRAP, JS/JQuery/Ajax, PHP/OOP, MySQL, Python, LARAVEL 💻 | Let's build something awesome! 🚀</h3>
+
 
 
 <div> <a href="https://twitter.com/@AkselDeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
