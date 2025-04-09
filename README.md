@@ -1,53 +1,119 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aksel
-=============================================================================================================================
+# Aksel's GitHub Profile
 
-Back End Developer
-------------------
+## 💻 Back-End Developer | Passionate about Building the Future One Line at a Time 🚀
 
-Hi, my name is Aksel, and I’m a 16-year-old junior backend developer. I started my programming journey at the age of 14 and have been passionate about technology ever since. Currently, I’m studying at an information college in Armenia, further building my skills and knowledge. From a young age, I’ve enjoyed working with computers and exploring how things work in tech. Today, I focus on creating modern, scalable web applications while continuously learning new technologies to grow as a professional. Additionally, I am deeply interested in working with Unreal Engine and AI using C++, aiming to develop innovative projects in game development and artificial intelligence.
+Hi there! My name is Aksel and I'm a 16-year-old junior back-end developer based in Yerevan. I am deeply passionate about coding and my goal is to create scalable and AI-powered solutions using cutting-edge technologies. 
 
-* 🌍  I'm based in Armenia
-* ✉️  You can contact me at [akseldeveloper8@gmail.com](mailto:akseldeveloper8@gmail.com)
-* 🧠  I'm learning C++, Unreal Engine, AI
+From a young age, I've been fascinated by computers and technology, constantly exploring and learning more about the world of programming. Over the years, I have honed my skills and expanded my knowledge in various programming languages and frameworks. 
 
-<a href="https://www.github.com/Aksel588" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Aksel588?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AkselDeveloper" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AkselDeveloper?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/akse3l588" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/akse3l588?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-### Skills
+### Skills and Interests
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
+I have a strong skill set in the following technologies:
+- PHP (Laravel, OOP)
+- JavaScript (jQuery, AJAX)
+- CSS (including frameworks like Bootstrap and Tailwind CSS)
+- Git and GitHub
+- C++
+- MySQL and MongoDB
 
-### Socials
+Besides back-end development, I am also interested in exploring front-end technologies and constantly improving my web development skills. Additionally, I'm passionate about working with Unreal Engine and AI, aiming to create innovative projects in game development and artificial intelligence.
 
-<p align="left"> <a href="https://www.dev.to/aksel588" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Aksel588" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/akse1.dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aksel-aghajanyan/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/AkselDeveloper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@akse1.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/akse3l588" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+### Projects
 
-<b>My GitHub Stats</b>
+Some of the projects I have created on GitHub include:
+- Weather App
+- Budget Tracker
+- Password Generator
+- Various Games
 
-<a href="http://www.github.com/Aksel588"><img src="https://github-readme-stats.vercel.app/api?username=Aksel588&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aksel588's GitHub stats" /></a>
+These projects are a testament to my versatility and showcase my ability to create a wide range of applications using different programming languages and frameworks. 
 
-<a href="http://www.github.com/Aksel588"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aksel588&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+One of my most starred repositories, "Badges," emphasizes my interest in gamification and achievements. While the description for this repository may be null, the projects themselves speak for their creativity and functionality.
 
-<a href="http://www.github.com/Aksel588"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aksel588&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Activity Insights
 
-<a href="https://github.com/Aksel588" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksel588&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Let's dive into some statistics to get a better understanding of my activity and contributions on GitHub:
 
-<b>Top Repositories</b>
+- Total Repositories: 19
+- Total Commits: 45
+- Followers: 6
+- Following: 31
 
-<div width="100%" align="center"><a href="https://github.com/Aksel588/Managing-Profiles-and-Shopping-with-Python-and-MongoDB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aksel588&repo=Managing-Profiles-and-Shopping-with-Python-and-MongoDB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Aksel588/RecipeShare-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aksel588&repo=RecipeShare-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+Despite the relatively small number of followers, I am highly engaged with the GitHub community. I actively follow 31 other users, which allows me to stay updated with the latest trends and developments in the world of programming.
 
-<br /><br /><br /><br /><br />
+I believe in the power of collaboration and have contributed to projects outside of my own. My contributions include 3 pull requests and 1 issue, where I brainstormed solutions and made meaningful contributions to the project at hand.
 
-<div width="100%" align="center"><a href="https://github.com/Aksel588/Nous-Shop" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aksel588&repo=Nous-Shop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+You can explore more about my work and interests on my personal blog, [here](https://aksel588.github.io/AkseL/).
 
-### Support Me
+### Contact Information
 
-<ul style="list-style-type: none; margin: 0;">
+📫 You can reach out to me via email at [aksel88@example.com](mailto:aksel88@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akse1588). I would love to chat and explore new opportunities.
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Akse1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+### GitHub Stats
 
-</ul>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AkseL588)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseL588)
+
+To stay motivated on GitHub, here is a streak showcasing my commitment to coding:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AkseL588)](https://git.io/streak-stats)
+
+### Skills and Languages
+
+Here's a summary of my skills and languages:
+
+#### Back-End Technologies
+- PHP, Laravel, OOP
+- C++
+- MySQL, MongoDB
+
+#### Front-End Technologies
+- HTML
+- CSS (including Bootstrap, Tailwind CSS)
+- JavaScript (including jQuery, AJAX)
+
+#### Other Skills
+- Git, GitHub
+
+#### Languages
+- English
+- Russian
+- Armenian
+
+### About Me
+
+I started my programming journey at the age of 14, and ever since, technology has been my true passion. Currently, I'm studying at an information college in Armenia, where I continue to enhance my skills and knowledge in the world of programming.
+
+From developing a shop application using PHP as my first project to creating projects in Python, C++, and JavaScript, I have gained hands-on experience in different programming paradigms and technologies. 
+
+Currently, I am working on a comprehensive web application using Laravel 11. This application, designed for educational purposes, allows teachers to create programming tests for students, with features like result tracking, test customization, and an intuitive user interface.
+
+In this fast-paced industry, it is essential to continuously learn and adopt the latest technologies. I am currently studying Unreal Engine and C++ to expand my expertise in game development and AI. My ultimate goal is to build immersive and intelligent applications that push the boundaries of innovation and creativity.
+
+### Soft Skills
+
+To complement my technical skills, I have developed the following soft skills:
+
+#### Communication Skills
+I have the ability to effectively convey ideas, technical concepts, and project updates to both technical and non-technical stakeholders. Clear communication is vital for collaboration and project success.
+
+#### Problem-Solving
+One of my strengths is my ability to analyze challenges and find innovative solutions. I thrive on problem-solving, especially when faced with unexpected obstacles during development.
+
+#### Time Management
+As a multitasker, I have developed excellent time management skills. I prioritize tasks effectively, meet deadlines, and manage time efficiently, ensuring that projects are delivered on time.
+
+#### Teamwork & Collaboration
+I have valuable experience working with cross-functional teams and collaborating with various stakeholders. I believe that united efforts lead to better outcomes, and I actively contribute to creating a positive team environment.
+
+### Education
+
+- College: Information College (2024 - Present)
+- Part-time: Global IT Company (2024 - Present)
+
+### Let's Connect!
+
+Feel free to reach out, explore my repositories, or connect with me on LinkedIn. I look forward to connecting with fellow developers and exploring new opportunities.
+
+Now, let's code, collaborate, and build the future one line at a time! 🌟
