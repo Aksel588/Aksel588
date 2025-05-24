@@ -1,119 +1,96 @@
-# Aksel's GitHub Profile
+# 👋 Aksel's GitHub Profile
 
-## 💻 Back-End Developer | Passionate about Building the Future One Line at a Time 🚀
+## 💻 Junior Back-End Developer | Aspiring AI Researcher | Building the Future One Line at a Time 🚀
 
-Hi there! My name is Aksel and I'm a 16-year-old junior back-end developer based in Yerevan. I am deeply passionate about coding and my goal is to create scalable and AI-powered solutions using cutting-edge technologies. 
+Hi there! My name is **Aksel**, and I'm a **16-year-old Junior Back-End Developer** from **Armenia**, passionate about coding, intelligent systems, and **AI innovation**. With over **1 year of hands-on experience in full-stack web development**, I create **efficient and scalable applications** using **PHP, Laravel, MySQL, and Python**.
 
-From a young age, I've been fascinated by computers and technology, constantly exploring and learning more about the world of programming. Over the years, I have honed my skills and expanded my knowledge in various programming languages and frameworks. 
+Currently, I’m **diving deep into Artificial Intelligence & Machine Learning** — exploring everything from **LLMs** and **deep learning** to **AI automation** and **custom model development**. My goal is to **combine backend engineering skills with modern AI tools** to create **impactful solutions**. 🌐💡
 
-### Skills and Interests
+---
 
-I have a strong skill set in the following technologies:
-- PHP (Laravel, OOP)
-- JavaScript (jQuery, AJAX)
-- CSS (including frameworks like Bootstrap and Tailwind CSS)
-- Git and GitHub
-- C++
-- MySQL and MongoDB
+### 🚀 Skills & Technologies
 
-Besides back-end development, I am also interested in exploring front-end technologies and constantly improving my web development skills. Additionally, I'm passionate about working with Unreal Engine and AI, aiming to create innovative projects in game development and artificial intelligence.
+#### 🔬 AI & Machine Learning (Actively Learning & Practicing)
+- 🐍 **Python**: AI scripting, automation, API development
+- 🔥 **PyTorch, TensorFlow**: Model training & experimentation
+- 🧠 **LLMs**: LLaMA, OpenAI API, LangChain
+- 📚 **Vector Databases**: Qdrant, Pinecone, Weaviate
+- 🔍 **RAG (Retrieval-Augmented Generation)** for AI chatbots
+- ⚙️ **AI Automation & Prompt Engineering**
 
-### Projects
+#### 💻 Back-End Development
+- 🐘 **PHP**, **OOP**, **MVC architecture**
+- 🚀 **Laravel**: Routing, Middleware, Eloquent ORM, API building
+- 🗃️ **MySQL**: Schema design, indexing, query optimization
+- 🍃 **MongoDB**: NoSQL, scalable data handling
 
-Some of the projects I have created on GitHub include:
-- Weather App
-- Budget Tracker
-- Password Generator
-- Various Games
+#### 🎨 Front-End Development
+- 🌐 **HTML, CSS, Bootstrap, Tailwind CSS**
+- ✨ **JavaScript (jQuery, AJAX)**
 
-These projects are a testament to my versatility and showcase my ability to create a wide range of applications using different programming languages and frameworks. 
+#### 🧠 Programming Languages
+- ⚙️ **C++**: Logic building, algorithms, data structures
+- 🐍 **Python**: Automation, web scraping, backend services
 
-One of my most starred repositories, "Badges," emphasizes my interest in gamification and achievements. While the description for this repository may be null, the projects themselves speak for their creativity and functionality.
+#### 🔗 Version Control & Deployment
+- 🔄 **Git & GitHub**: Branching, pull requests, CI/CD basics
 
-### Activity Insights
+#### 🎮 Game Development
+- 🕹️ **Unreal Engine 5**: Level design, Blueprint scripting, lighting, basic AI
 
-Let's dive into some statistics to get a better understanding of my activity and contributions on GitHub:
+#### 🌍 Languages
+- 🇬🇧 English | 🇷🇺 Russian | 🇦🇲 Armenian
 
-- Total Repositories: 19
-- Total Commits: 45
-- Followers: 6
-- Following: 31
+---
 
-Despite the relatively small number of followers, I am highly engaged with the GitHub community. I actively follow 31 other users, which allows me to stay updated with the latest trends and developments in the world of programming.
+### 📈 GitHub Stats & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkseL588&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseL588&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AkseL588&theme=radical)](https://git.io/streak-stats)
 
-I believe in the power of collaboration and have contributed to projects outside of my own. My contributions include 3 pull requests and 1 issue, where I brainstormed solutions and made meaningful contributions to the project at hand.
+---
 
-You can explore more about my work and interests on my personal blog, [here](https://aksel588.github.io/AkseL/).
+### 🌟 Projects
+Here are some highlights from my GitHub projects:
+- 🌦️ **Weather App** — Real-time weather data.
+- 💸 **Budget Tracker** — Smart financial tracking.
+- 🔐 **Password Generator** — Secure & customizable.
+- 🎮 **Various Games** — Built using C++, Unreal Engine, and web technologies.
+- 🏆 **Badges** — Gamification project showcasing achievements and creativity.
 
-### Contact Information
+Explore my work: [GitHub Repositories](https://github.com/AkseL588)
 
-📫 You can reach out to me via email at [aksel88@example.com](mailto:aksel88@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akse1588). I would love to chat and explore new opportunities.
+---
 
-### GitHub Stats
+### 📚 About Me
+I started programming at the age of **14**, inspired by a deep curiosity about technology. Now studying at an **Information College in Armenia**, I constantly push my skills through **real-world projects** and **AI explorations**. 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AkseL588)
+Currently, I’m working on:
+- 🖥️ A **comprehensive web application with Laravel 11** for teachers to create programming tests.
+- 🤖 **Custom AI models & intelligent bots** for future projects.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseL588)
+---
 
-To stay motivated on GitHub, here is a streak showcasing my commitment to coding:
+### 💬 Soft Skills
+- 🎙️ **Communication**: Explaining complex ideas to all audiences.
+- 🧩 **Problem-Solving**: Tackling challenges with innovative solutions.
+- ⏳ **Time Management**: Meeting deadlines with effective prioritization.
+- 🤝 **Collaboration**: Teamwork with diverse and cross-functional teams.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AkseL588)](https://git.io/streak-stats)
+---
 
-### Skills and Languages
+### 🎓 Education & Experience
+- 🎓 **Information College** (2024–Present)
+- 💼 **Part-Time at a Global IT Company** (2024–Present)
 
-Here's a summary of my skills and languages:
+---
 
-#### Back-End Technologies
-- PHP, Laravel, OOP
-- C++
-- MySQL, MongoDB
+### 📬 Let's Connect!
+- 📧 Email: [aksel88@example.com](mailto:aksel88@example.com)
+- 💼 LinkedIn: [linkedin.com/in/akse1588](https://www.linkedin.com/in/akse1588)
+- 🌐 Personal Blog: [aksel588.github.io/AkseL/](https://aksel588.github.io/AkseL/)
 
-#### Front-End Technologies
-- HTML
-- CSS (including Bootstrap, Tailwind CSS)
-- JavaScript (including jQuery, AJAX)
+---
 
-#### Other Skills
-- Git, GitHub
-
-#### Languages
-- English
-- Russian
-- Armenian
-
-### About Me
-
-I started my programming journey at the age of 14, and ever since, technology has been my true passion. Currently, I'm studying at an information college in Armenia, where I continue to enhance my skills and knowledge in the world of programming.
-
-From developing a shop application using PHP as my first project to creating projects in Python, C++, and JavaScript, I have gained hands-on experience in different programming paradigms and technologies. 
-
-Currently, I am working on a comprehensive web application using Laravel 11. This application, designed for educational purposes, allows teachers to create programming tests for students, with features like result tracking, test customization, and an intuitive user interface.
-
-In this fast-paced industry, it is essential to continuously learn and adopt the latest technologies. I am currently studying Unreal Engine and C++ to expand my expertise in game development and AI. My ultimate goal is to build immersive and intelligent applications that push the boundaries of innovation and creativity.
-
-### Soft Skills
-
-To complement my technical skills, I have developed the following soft skills:
-
-#### Communication Skills
-I have the ability to effectively convey ideas, technical concepts, and project updates to both technical and non-technical stakeholders. Clear communication is vital for collaboration and project success.
-
-#### Problem-Solving
-One of my strengths is my ability to analyze challenges and find innovative solutions. I thrive on problem-solving, especially when faced with unexpected obstacles during development.
-
-#### Time Management
-As a multitasker, I have developed excellent time management skills. I prioritize tasks effectively, meet deadlines, and manage time efficiently, ensuring that projects are delivered on time.
-
-#### Teamwork & Collaboration
-I have valuable experience working with cross-functional teams and collaborating with various stakeholders. I believe that united efforts lead to better outcomes, and I actively contribute to creating a positive team environment.
-
-### Education
-
-- College: Information College (2024 - Present)
-- Part-time: Global IT Company (2024 - Present)
-
-### Let's Connect!
-
-Feel free to reach out, explore my repositories, or connect with me on LinkedIn. I look forward to connecting with fellow developers and exploring new opportunities.
-
-Now, let's code, collaborate, and build the future one line at a time! 🌟
+### 🔥 Motto
+_"Let's code, collaborate, and build the future — one line at a time."_ 🌟
