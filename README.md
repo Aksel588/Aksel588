@@ -73,9 +73,9 @@ I started programming at **14**, driven by a deep curiosity about how technology
 ---
 
 ## 📫 Let’s Connect!
-- 📧 Email: [aksel88@example.com](mailto:aksel88@example.com)
-- 💼 LinkedIn: [linkedin.com/in/akse1588](https://www.linkedin.com/in/akse1588)
-- 🌐 Website: [aksel588.github.io/AkseL](https://aksel588.github.io/AkseL)
+- 📧 Email: [akseldeveloper8@gmail.com](akseldeveloper8@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/aksel-aghajanyan/](https://www.linkedin.com/in/aksel-aghajanyan/)
+- 🌐 Website: [https://aksel588.github.io/aksel_portfolio/](https://aksel588.github.io/aksel_portfolio/)
 
 ---
 
