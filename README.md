@@ -42,6 +42,13 @@ Currently, I’m diving deep into **Artificial Intelligence & Machine Learning**
 
 ---
 
+## 📦 My Python Library
+
+**📚 [`linkai-aion`](https://pypi.org/project/linkai-aion/)** — Build smarter tools with clean AI utilities  
+[![Downloads](https://static.pepy.tech/personalized-badge/linkai-aion?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/linkai-aion)
+
+---
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkseL588&show_icons=true&theme=radical)
@@ -56,7 +63,7 @@ Currently, I’m diving deep into **Artificial Intelligence & Machine Learning**
 - 🎮 **Mini Games** – Built with C++, Unreal Engine & web tech
 - 📚 **Gamification System** – Dynamic badge + level system for learners
 
-Explore more: [My Repositories →](https://github.com/AkseL588)
+🔗 Explore more: [My Repositories →](https://github.com/AkseL588)
 
 ---
 
@@ -67,14 +74,22 @@ Explore more: [My Repositories →](https://github.com/AkseL588)
 ---
 
 ## 💬 About Me
+
 I started programming at **14**, driven by a deep curiosity about how technology works. I believe in **learning by doing**, building real-world projects, and contributing to open-source communities. My focus is now on blending **AI and backend development** to solve meaningful problems.
 
 ---
 
+## 🌍 Open Source Contributions
+
+I'm a proud contributor to the open-source ecosystem and always looking for meaningful projects to support and grow.
+
+---
+
 ## 📫 Let’s Connect!
-- 📧 Email: [akseldeveloper8@gmail.com](akseldeveloper8@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/aksel-aghajanyan/](https://www.linkedin.com/in/aksel-aghajanyan/)
-- 🌐 Website: [https://aksel588.github.io/aksel_portfolio/](https://aksel588.github.io/aksel_portfolio/)
+
+- 📧 Email: [akseldeveloper8@gmail.com](mailto:akseldeveloper8@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/aksel-aghajanyan](https://www.linkedin.com/in/aksel-aghajanyan/)
+- 🌐 Website: [aksel588.github.io/aksel_portfolio](https://aksel588.github.io/aksel_portfolio/)
 
 ---
 
