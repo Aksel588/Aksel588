@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Aksel | Junior Back-End Developer & Deep Learning Explorer
 
-![Profile Banner](https://raw.githubusercontent.com/AkseL588/AkseL588/main/banner.png)
-
 I’m **Aksel**, a passionate Junior Back-End Developer and aspiring AI Researcher from **Armenia**, dedicated to building intelligent systems, exploring deep learning, and creating technology that truly makes an impact.
 
 With over **1 year of hands-on experience** in full-stack development, I have built **scalable, maintainable applications** using technologies like **PHP, Laravel, MySQL, and Python**. I thrive on solving real-world problems through code, and I constantly seek to expand my expertise — especially in Artificial Intelligence, automation, and game development.
