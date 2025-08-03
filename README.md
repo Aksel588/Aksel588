@@ -130,24 +130,62 @@ I actively contribute to open-source projects and enjoy collaborating with the d
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseL588&layout=compact&theme=radical)  
 
 ---
-
 ## 🏷️ Technologies & Tools
 
+### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### 🔧 Frameworks & Platforms
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-312F2F?style=for-the-badge&logo=unrealengine&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🧠 AI & ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-0FA958?style=for-the-badge&logoColor=white)
+![LLaMA](https://img.shields.io/badge/-LLaMA-302683?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-800000?style=for-the-badge&logoColor=white)
+
+### 💾 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-45A7F7?style=for-the-badge&logoColor=white)
+![Weaviate](https://img.shields.io/badge/-Weaviate-F44336?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-23A698?style=for-the-badge&logoColor=white)
+
+### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-312F2F?style=for-the-badge&logo=unrealengine&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0B0B0B?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 🧠 Hardware & SDKs
+![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Triton Inference Server](https://img.shields.io/badge/-Triton-FF5F00?style=for-the-badge&logoColor=white)
+![TensorRT](https://img.shields.io/badge/-TensorRT-2E8B57?style=for-the-badge&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### 💬 Chatbots & Messaging
+![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🧑‍💼 Startup
+![LinkAI](https://img.shields.io/badge/-LinkAI-000000?style=for-the-badge&logo=github&logoColor=white)
+> 🚀 *Founder of LinkAI — Building smart tools for real-world problems using LLMs, automation, and scalable AI backend systems.*
 ---
 
 ## 📫 Let’s Connect!
