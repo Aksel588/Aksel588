@@ -73,16 +73,16 @@ I’m deeply involved in **Artificial Intelligence and Machine Learning**, with 
 
 ---
 
-## 🚀 Founder & Creator of LinkAI
+## 🚀 Founder & Creator of AqwelAl
 
-I am the founder of **LinkAI**, an AI startup dedicated to building intelligent tools and platforms powered by large language models and automation. At LinkAI, I’m focused on:
+I am the founder of **AqwelAl**, an AI startup dedicated to building intelligent tools and platforms powered by large language models and automation. At LinkAI, I’m focused on:
 
 - Creating AI-powered productivity and developer tools  
 - Building custom AI agents that assist users with real-world tasks  
 - Developing Python libraries and frameworks that simplify AI integration  
 - Bridging AI models with scalable backend architectures for business solutions  
 
-Our flagship project is **[`linkai-aion`](https://pypi.org/project/linkai-aion/)** — a lightweight Python library designed for clean, modular AI utilities, making it easier for developers to build smart AI applications.
+Our flagship project is **[`AqwelAl-aion`](https://pypi.org/project/linkai-aion/)** — a lightweight Python library designed for clean, modular AI utilities, making it easier for developers to build smart AI applications.
 
 ---
 
@@ -182,8 +182,8 @@ I actively contribute to open-source projects and enjoy collaborating with the d
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🧑‍💼 Startup
-![LinkAI](https://img.shields.io/badge/-LinkAI-000000?style=for-the-badge&logo=github&logoColor=white)
-> 🚀 *Founder of LinkAI — Building smart tools for real-world problems using LLMs, automation, and scalable AI backend systems.*
+![AqwelAl](https://img.shields.io/badge/-AqwelAl-000000?style=for-the-badge&logo=github&logoColor=white)
+> 🚀 *Founder of AqwelAl — Building smart tools for real-world problems using LLMs, automation, and scalable AI backend systems.*
 ---
 
 ## 📫 Let’s Connect!
