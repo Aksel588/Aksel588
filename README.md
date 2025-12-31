@@ -80,10 +80,9 @@ Founder of **AqwelAl**, an early-stage personal initiative focused on:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkseL588&show_icons=true&hide_title=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkseL588&show_icons=true&hide_title=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseL588&layout=compact&theme=default)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseL588&layout=compact&cache_seconds=86400)
 ---
 
 ## Tech Stack
