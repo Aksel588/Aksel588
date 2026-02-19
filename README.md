@@ -7,20 +7,8 @@
 **AI Research Student · Backend Developer · Founder of Aqwel AI**
 
 *Developing [Aion](https://github.com/AkseL588) (Open Research Toolkit) · Focused on Mathematics & Intelligent Systems*
-
-[![GitHub](https://img.shields.io/badge/GitHub-AkseL588-181717?style=for-the-badge&logo=github)](https://github.com/AkseL588)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aksel--aghajanyan-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aksel-aghajanyan)
-[![Email](https://img.shields.io/badge/Email-akseldeveloper8@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:akseldeveloper8@gmail.com)
-
 </div>
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkseL588&show_icons=true&theme=default&hide_border=true)](https://github.com/AkseL588)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseL588&layout=compact&theme=default&hide_border=true)](https://github.com/AkseL588)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkseL588&theme=default&hide_border=true)](https://github.com/AkseL588)
-
-</div>
 
 ---
 
@@ -126,7 +114,7 @@ Founder of **[Aqwel AI](https://aqwelai.xyz)**, an early-stage initiative focuse
 
 ---
 
-git a## Let's connect
+## Let's connect
 
 Open to **research collaboration**, **internships**, and **ML engineering** opportunities. Happy to discuss AI, deep learning, or building intelligent systems.
 
