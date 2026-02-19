@@ -1,130 +1,89 @@
-<div align="center">
+## Aksel Aghajanyan  
+**AI Research Student | Deep Learning Developer | Backend Engineer**
 
-![Profile Banner](./profile-banner.png)
+I’m **Aksel**, an AI research student and backend developer from **Armenia**, focused on understanding and building intelligent systems with strong foundations in **mathematics, machine learning, and software engineering**.
 
-# Aksel Aghajanyan
-
-**AI Research · Deep Learning · Backend Engineering**
-
-*Building intelligent systems with strong foundations in mathematics, ML, and software engineering*
-
-[![GitHub](https://img.shields.io/badge/GitHub-AkseL588-181717?style=for-the-badge&logo=github)](https://github.com/AkseL588)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aksel--aghajanyan-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aksel-aghajanyan)
-[![Email](https://img.shields.io/badge/Email-akseldeveloper8@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:akseldeveloper8@gmail.com)
-
-</div>
+I have hands-on experience developing scalable backend applications using **Python, PHP (Laravel), and MySQL**, and I actively explore how modern AI techniques can be applied in real-world systems. My interests lie at the intersection of **AI research, intelligent agents, automation, and system-level design**.
 
 ---
 
-## About Me
+## AI & Machine Learning (Learning Path)
 
-I'm **Aksel**, an AI research student and backend developer from **Armenia**. I focus on understanding and building intelligent systems—from scalable backends to LLMs and agents—with an emphasis on **how things work under the hood**, not only high-level APIs.
+- Python for AI development, scripting, and automation  
+- Deep learning with **PyTorch** and **TensorFlow**  
+- Large Language Models (LLMs): **LLaMA, OpenAI API, LangChain**  
+- Retrieval-Augmented Generation (RAG) systems  
+- Vector databases: **Qdrant, Pinecone, Weaviate**  
+- Prompt engineering and AI agent design  
+- Core ML concepts: regression, classification, k-NN, SVM  
+- Decision trees, ensemble methods, gradient boosting  
+- Neural networks: **CNNs, RNNs, LSTMs**, generative models (GANs)  
+- Fundamentals of **NLP** and **computer vision**  
+- Data science basics: EDA, pipelines, model evaluation  
 
-**Current focus:** Deep learning (PyTorch, TensorFlow), LLMs & RAG, intelligent automation, and system design.
-
----
-
-## Tech Stack & Focus
-
-```mermaid
-mindmap
-  root((Aksel))
-    AI & ML
-      PyTorch / TensorFlow
-      LLMs · LangChain · RAG
-      Vector DBs · NLP · CV
-    Backend
-      Python · PHP · Laravel
-      REST APIs · MySQL · Redis
-    Automation
-      Telegram Bots
-      LLM-powered workflows
-    Infrastructure
-      Docker · Git · CI/CD
-      VPS deployment
-```
+> Focused on understanding how models work internally, not only using high-level APIs.
 
 ---
 
-## Learning Path
+## Mathematics for AI
 
-```mermaid
-flowchart LR
-  subgraph Foundations
-    A[Math & Stats]
-    B[Linear Algebra]
-    C[Optimization]
-  end
-  subgraph ML
-    D[Classical ML]
-    E[Deep Learning]
-    F[LLMs & RAG]
-  end
-  subgraph Build
-    G[Backend Systems]
-    H[Agents & Automation]
-  end
-  A --> D
-  B --> E
-  C --> E
-  D --> E
-  E --> F
-  F --> H
-  E --> G
-```
-
-| Area | Technologies & Topics |
-|------|------------------------|
-| **AI / ML** | PyTorch, TensorFlow, LLaMA, OpenAI API, LangChain, RAG, Qdrant, Pinecone, Weaviate |
-| **Core ML** | Regression, classification, k-NN, SVM, trees, boosting, CNNs, RNNs, LSTMs, GANs |
-| **Backend** | Python, PHP, Laravel, REST APIs, MVC, MySQL, MongoDB, Redis |
-| **DevOps** | Git, GitHub, Docker, CI/CD, VPS deployment |
-| **Automation** | Telegram bots (Python, pyTelegramBotAPI), LLM integration, contextual memory |
-| **GPU** | CUDA basics, Triton, TensorRT (exploration) |
-| **Hobby** | Unreal Engine 5, Blueprints, C++, AI behavior trees, game prototyping |
+- Linear algebra: vectors, matrices, transformations  
+- Probability theory and statistics  
+- Optimization basics: loss functions, gradient descent  
+- Discrete mathematics and logic for algorithms  
 
 ---
 
-## Current Focus
+## Automation & Bots
 
-```mermaid
-pie showData
-  title Time & Focus
-  "Deep Learning & LLMs" : 40
-  "Backend & APIs" : 25
-  "RAG & Agents" : 20
-  "Automation & Bots" : 10
-  "Game Dev (hobby)" : 5
-```
+- Telegram bots built with **Python** and `pyTelegramBotAPI`  
+- LLM integration for intelligent automation  
+- Real-time message handling with contextual memory  
+
+---
+
+## Backend & Systems
+
+- Backend: Python, PHP, Laravel, REST APIs, MVC  
+- Databases: MySQL, MongoDB, Redis  
+- DevOps: Git, GitHub, Docker, basic CI/CD, VPS deployment  
+
+---
+
+## GPU Computing (Exploration)
+
+- Learning CUDA fundamentals and parallel programming concepts  
+- Exploring Triton Inference Server and TensorRT for efficient inference  
+- Interested in GPU-accelerated AI systems and performance optimization  
+
+---
+
+## Game Development (Hobby)
+
+Game development is a personal experimental space.
+
+- Unreal Engine 5 (Blueprints, basic C++)  
+- Gameplay prototyping and environment design  
+- AI behavior trees, cutscenes, and cinematic tools  
+- Using games as a sandbox for AI, simulation, and systems thinking  
 
 ---
 
 ## AqwelAl
 
-Founder of **AqwelAl** — an early-stage initiative around:
-
+Founder of **AqwelAl**, an early-stage personal initiative focused on:
 - AI experimentation and learning  
 - Intelligent automation tools  
 - Open-source Python utilities  
 
 ---
 
-## How I Work
+## Contact
 
-> **Learn the fundamentals. Build with purpose. Improve continuously.**
-
-- Prefer understanding model internals and system design over only using APIs  
-- Use games and simulations as a sandbox for AI and systems thinking  
-- Interested in the intersection of **AI research, agents, automation, and system-level design**  
+- GitHub: https://github.com/AkseL588  
+- LinkedIn: https://linkedin.com/in/aksel-aghajanyan  
+- Email: akseldeveloper8@gmail.com  
 
 ---
 
-<div align="center">
-
-### Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-AkseL588-181717?style=flat-square&logo=github)](https://github.com/AkseL588)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aksel%20Aghajanyan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aksel-aghajanyan)
-[![Email](https://img.shields.io/badge/Email-akseldeveloper8@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:akseldeveloper8@gmail.com)
-
-</div>
+> *Learn the fundamentals. Build with purpose. Improve continuously.*
