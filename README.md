@@ -78,6 +78,19 @@ Writing on AI, ML theory, and the limits and geometry of modern models:
 
 ---
 
+## Mathematics for AI / ML / DS — In Progress
+
+- **Linear algebra** — vectors, matrices, eigenvalues, eigenvectors, SVD, norms, inner products  
+- **Probability** — distributions, Bayes’ rule, expectation, variance, conditional probability  
+- **Statistics** — estimation, hypothesis testing, confidence intervals, regression theory  
+- **Calculus** — derivatives, partial derivatives, chain rule, gradients, Jacobians  
+- **Optimization** — gradient descent, convexity, loss surfaces, convergence  
+- **Random matrix theory** — spectra, concentration, applications in ML (e.g. double descent)  
+- **Information theory** — entropy, mutual information, coding, capacity  
+- **Discrete math & logic** — sets, graphs, combinatorics, formal reasoning for algorithms  
+
+---
+
 ## Automation & Bots
 
 - Telegram bots with **Python** and `pyTelegramBotAPI`  
