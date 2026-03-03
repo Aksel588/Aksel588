@@ -18,6 +18,8 @@ Hi, I'm **Aksel**, an AI research student and deep learning developer from **Arm
 
 I am particularly interested in **deep learning** and **large language models**, and in learning how advanced AI systems are trained, optimized, and deployed efficiently.
 
+I write **scientific articles** on [Medium](https://medium.com/@AkselAghajanyan) and enjoy **reading**, **studying**, and **doing research**—especially at the intersection of mathematics, ML theory, and intelligent systems.
+
 **Top skills:** Python · Artificial Intelligence · Machine Learning · Deep Learning · Data Science
 
 ---
@@ -27,8 +29,11 @@ I am particularly interested in **deep learning** and **large language models**,
 Writing on AI, ML theory, and the limits and geometry of modern models:
 
 - [**The Geometry of the Double Descent: How Overparameterized Models Learn Beyond Classical Limits**](https://medium.com/frontiers-of-data-science/the-geometry-of-the-double-descent-how-overparameterized-models-learn-beyond-classical-limits-10fbbaee56ff) — *Frontiers of Data Science*
+- [**Random Matrix Theory: Visualizing Mathematics and Its Applications in Machine Learning**](https://medium.com/frontiers-of-data-science/random-matrix-theory-visualizing-mathematics-and-its-applications-in-machine-learning-45aaf14fe829) — *Frontiers of Data Science*
 - [**Why Mathematical Reasoning Exposes the Limits of AI**](https://medium.com/@AkselAghajanyan/why-mathematical-reasoning-exposes-the-limits-of-ai-437ded440936)
 - [**Why Bigger Models Don't Automatically Mean Smarter AI**](https://medium.com/@AkselAghajanyan/why-bigger-models-dont-automatically-mean-smarter-ai-fcdbb0789ea6)
+
+*More on [Medium](https://medium.com/@AkselAghajanyan).*
 
 ---
 
@@ -52,6 +57,14 @@ Writing on AI, ML theory, and the limits and geometry of modern models:
 
 ---
 
+## Currently
+
+- Building **[Aion](https://github.com/AkseL588)** (open research toolkit) and growing **[Aqwel AI](https://aqwelai.xyz)**
+- Deepening understanding of LLMs, RAG, and efficient inference
+- Writing on [Medium](https://medium.com/@AkselAghajanyan) and in the [Aksel with AI](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7401608552454201344) newsletter
+
+---
+
 ## Data Science
 
 - **NumPy** — numerical computing, arrays, linear algebra  
@@ -70,6 +83,17 @@ Writing on AI, ML theory, and the limits and geometry of modern models:
 - Telegram bots with **Python** and `pyTelegramBotAPI`  
 - LLM integration for intelligent automation  
 - Real-time message handling with contextual memory  
+
+---
+
+## Prompt Engineering
+
+- **Structured prompts** — clear instructions, role-setting, and output format control  
+- **Few-shot & zero-shot** — in-context learning and chain-of-thought reasoning  
+- **RAG-oriented prompting** — query formulation and retrieval-augmented workflows  
+- **Agent design** — task decomposition, tool use, and multi-step reasoning  
+- **Optimization** — iterating on clarity, specificity, and model behavior  
+- **APIs** — **OpenAI**, **Anthropic**, **LangChain**, and custom LLM integrations  
 
 ---
 
@@ -123,6 +147,10 @@ Founder of **[Aqwel AI](https://aqwelai.xyz)**, an early-stage initiative focuse
 Open to **research collaboration**, **internships**, and **ML engineering** opportunities. Happy to discuss AI, deep learning, or building intelligent systems.
 
 Reach out via [LinkedIn](https://linkedin.com/in/aksel-aghajanyan).
+
+---
+
+> *Learn the fundamentals. Build with purpose. Improve continuously.*
 
 ---
 
