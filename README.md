@@ -22,6 +22,16 @@ I am particularly interested in **deep learning** and **large language models**,
 
 ---
 
+## Articles
+
+Writing on AI, ML theory, and the limits and geometry of modern models:
+
+- [**The Geometry of the Double Descent: How Overparameterized Models Learn Beyond Classical Limits**](https://medium.com/frontiers-of-data-science/the-geometry-of-the-double-descent-how-overparameterized-models-learn-beyond-classical-limits-10fbbaee56ff) — *Frontiers of Data Science*
+- [**Why Mathematical Reasoning Exposes the Limits of AI**](https://medium.com/@AkselAghajanyan/why-mathematical-reasoning-exposes-the-limits-of-ai-437ded440936)
+- [**Why Bigger Models Don't Automatically Mean Smarter AI**](https://medium.com/@AkselAghajanyan/why-bigger-models-dont-automatically-mean-smarter-ai-fcdbb0789ea6)
+
+---
+
 ## AI & Machine Learning — Learning Path (In Progress)
 
 - Python for AI development, automation, and APIs  
@@ -86,6 +96,8 @@ Game development is a personal interest and experimental space.
 
 ## Founder — Aqwel AI
 
+<img src="./logo_website.png" alt="Aqwel AI logo" width="80">
+
 Founder of **[Aqwel AI](https://aqwelai.xyz)**, an early-stage initiative focused on learning, experimentation, and open development of **AI-powered tools**.
 
 - AI experimentation and learning  
@@ -106,19 +118,11 @@ Founder of **[Aqwel AI](https://aqwelai.xyz)**, an early-stage initiative focuse
 
 ---
 
-## Articles
-
-- [**The Geometry of the Double Descent: How Overparameterized Models Learn Beyond Classical Limits**](https://medium.com/frontiers-of-data-science/the-geometry-of-the-double-descent-how-overparameterized-models-learn-beyond-classical-limits-10fbbaee56ff) — *Frontiers of Data Science*
-- [**Why Mathematical Reasoning Exposes the Limits of AI**](https://medium.com/@AkselAghajanyan/why-mathematical-reasoning-exposes-the-limits-of-ai-437ded440936)
-- [**Why Bigger Models Don't Automatically Mean Smarter AI**](https://medium.com/@AkselAghajanyan/why-bigger-models-dont-automatically-mean-smarter-ai-fcdbb0789ea6)
-
----
-
 ## Let's connect
 
 Open to **research collaboration**, **internships**, and **ML engineering** opportunities. Happy to discuss AI, deep learning, or building intelligent systems.
 
-Reach out via [LinkedIn](https://linkedin.com/in/aksel-aghajanyan) or [email](mailto:akseldeveloper8@gmail.com).
+Reach out via [LinkedIn](https://linkedin.com/in/aksel-aghajanyan).
 
 ---
 
@@ -128,6 +132,5 @@ Reach out via [LinkedIn](https://linkedin.com/in/aksel-aghajanyan) or [email](ma
 
 [![GitHub](https://img.shields.io/badge/GitHub-AkseL588-181717?style=flat-square&logo=github)](https://github.com/AkseL588)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aksel%20Aghajanyan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aksel-aghajanyan)
-[![Email](https://img.shields.io/badge/Email-akseldeveloper8@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:akseldeveloper8@gmail.com)
 
 </div>
