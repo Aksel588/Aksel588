@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](./profile-banner.png)
+<img src="./profile-banner.png" alt="Aksel Aghajanyan — AI Research · Aqwel AI · Mathematics" width="100%" />
 
 # Aksel Aghajanyan
 
@@ -24,6 +24,15 @@ I write **scientific articles** on [Medium](https://medium.com/@AkselAghajanyan)
 
 ---
 
+## Languages
+
+- **Armenian** — native or bilingual proficiency  
+- **English** — professional working proficiency  
+- **Russian** — professional working proficiency  
+- **Japanese** — elementary proficiency  
+
+---
+
 ## Articles
 
 Writing on AI, ML theory, and the limits and geometry of modern models:
@@ -34,6 +43,30 @@ Writing on AI, ML theory, and the limits and geometry of modern models:
 - [**Why Bigger Models Don't Automatically Mean Smarter AI**](https://medium.com/@AkselAghajanyan/why-bigger-models-dont-automatically-mean-smarter-ai-fcdbb0789ea6)
 
 *More on [Medium](https://medium.com/@AkselAghajanyan).*
+
+---
+
+## Notes (PDF)
+
+Downloadable PDFs—technical notes, explanations, and write-ups on math, ML, systems, and related topics. Open in your browser or save a copy.
+
+### Cramer’s rule and machine learning
+
+PDF paper on Cramer’s rule in a machine-learning context—view inline or download.
+
+[View PDF](./notes/cramers-rule-and-machine-learning.pdf) · [Download](./notes/cramers-rule-and-machine-learning.pdf)
+
+### Matrix transpose
+
+PDF notes on the matrix transpose—view inline or download.
+
+[View PDF](./notes/matrix-transpose.pdf) · [Download](./notes/matrix-transpose.pdf)
+
+### GPU memory
+
+PDF notes on GPU memory—view inline or download.
+
+[View PDF](./notes/gpu-memory.pdf) · [Download](./notes/gpu-memory.pdf)
 
 ---
 
