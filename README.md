@@ -4,7 +4,7 @@
 
 # Aksel Aghajanyan
 
-**AI Research Student · Backend Developer · Founder of Aqwel AI**
+**Data Scientist & ML Researcher | Founder of Aqwel AI**
 
 *Developing [Aion](https://github.com/AkseL588) (Open Research Toolkit) · Focused on Mathematics & Intelligent Systems*
 </div>
