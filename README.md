@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./profile-banner.png" alt="Aksel Aghajanyan — AI Research · Aqwel AI · Mathematics" width="100%" />
+<img src="./profile-banner.png" alt="Aksel Aghajanyan — Data Science · ML Research · Aqwel AI" width="100%" />
 
 # Aksel Aghajanyan
 
-**Data Scientist & ML Researcher | Founder of Aqwel AI**
+**Data Scientist & ML Researcher | Founder of Aqwel AI | Working on Applied ML and Mathematical Modeling**
 
-*Developing [Aion](https://github.com/AkseL588) (Open Research Toolkit) · Focused on Mathematics & Intelligent Systems*
+*Also building [Aion](https://github.com/AkseL588) (Open Research Toolkit).*
 </div>
 
 
@@ -14,9 +14,9 @@
 
 ## About
 
-Hi, I'm **Aksel**, an AI research student and deep learning developer from **Armenia**, focused on understanding and building intelligent systems grounded in strong mathematical and engineering foundations.
+Hi, I'm **Aksel**, a data scientist and ML researcher from **Armenia**, focused on applied machine learning, mathematical modeling, and intelligent systems grounded in strong mathematical and engineering foundations.
 
-I am particularly interested in **deep learning** and **large language models**, and in learning how advanced AI systems are trained, optimized, and deployed efficiently.
+I am particularly interested in **deep learning**, **large language models**, and how advanced AI systems are trained, optimized, and deployed efficiently.
 
 I write **scientific articles** on [Medium](https://medium.com/@AkselAghajanyan) and enjoy **reading**, **studying**, and **doing research**—especially at the intersection of mathematics, ML theory, and intelligent systems.
 
@@ -24,143 +24,56 @@ I write **scientific articles** on [Medium](https://medium.com/@AkselAghajanyan)
 
 ---
 
-## Languages
-
-- **Armenian** — native or bilingual proficiency  
-- **English** — professional working proficiency  
-- **Russian** — professional working proficiency  
-- **Japanese** — elementary proficiency  
-
----
-
 ## Articles
 
-Writing on AI, ML theory, and the limits and geometry of modern models:
+[Medium](https://medium.com/@AkselAghajanyan) — AI, ML theory, math.
 
-- [**The Geometry of the Double Descent: How Overparameterized Models Learn Beyond Classical Limits**](https://medium.com/frontiers-of-data-science/the-geometry-of-the-double-descent-how-overparameterized-models-learn-beyond-classical-limits-10fbbaee56ff) — *Frontiers of Data Science*
-- [**Random Matrix Theory: Visualizing Mathematics and Its Applications in Machine Learning**](https://medium.com/frontiers-of-data-science/random-matrix-theory-visualizing-mathematics-and-its-applications-in-machine-learning-45aaf14fe829) — *Frontiers of Data Science*
-- [**Why Mathematical Reasoning Exposes the Limits of AI**](https://medium.com/@AkselAghajanyan/why-mathematical-reasoning-exposes-the-limits-of-ai-437ded440936)
-- [**Why Bigger Models Don't Automatically Mean Smarter AI**](https://medium.com/@AkselAghajanyan/why-bigger-models-dont-automatically-mean-smarter-ai-fcdbb0789ea6)
-
-*More on [Medium](https://medium.com/@AkselAghajanyan).*
-
----
-
-## Notes (PDF)
-
-Downloadable PDFs—technical notes, explanations, and write-ups on math, ML, systems, and related topics. Open in your browser or save a copy.
-
-### Cramer’s rule and machine learning
-
-PDF paper on Cramer’s rule in a machine-learning context—view inline or download.
-
-[View PDF](./notes/cramers-rule-and-machine-learning.pdf) · [Download](./notes/cramers-rule-and-machine-learning.pdf)
-
-### Matrix transpose
-
-PDF notes on the matrix transpose—view inline or download.
-
-[View PDF](./notes/matrix-transpose.pdf) · [Download](./notes/matrix-transpose.pdf)
-
-### GPU memory
-
-PDF notes on GPU memory—view inline or download.
-
-[View PDF](./notes/gpu-memory.pdf) · [Download](./notes/gpu-memory.pdf)
+- [Double descent & overparameterization](https://medium.com/frontiers-of-data-science/the-geometry-of-the-double-descent-how-overparameterized-models-learn-beyond-classical-limits-10fbbaee56ff) · *Frontiers of Data Science*
+- [Random matrix theory in ML](https://medium.com/frontiers-of-data-science/random-matrix-theory-visualizing-mathematics-and-its-applications-in-machine-learning-45aaf14fe829) · *Frontiers of Data Science*
+- [Mathematical reasoning & limits of AI](https://medium.com/@AkselAghajanyan/why-mathematical-reasoning-exposes-the-limits-of-ai-437ded440936)
+- [Bigger models ≠ smarter AI](https://medium.com/@AkselAghajanyan/why-bigger-models-dont-automatically-mean-smarter-ai-fcdbb0789ea6)
 
 ---
 
 ## AI & Machine Learning — Learning Path (In Progress)
 
-- Python for AI development, automation, and APIs  
-- Advanced Python programming for AI systems  
-- Data & scientific stack: **NumPy, Pandas, Matplotlib, Seaborn, SciPy**, Jupyter  
-- Deep learning with **PyTorch** and **TensorFlow**  
-- Large Language Models (LLMs): **LLaMA, OpenAI API, LangChain**  
-- Retrieval-Augmented Generation (RAG) systems  
-- Vector databases: **Qdrant, Pinecone, Weaviate**  
-- Prompt engineering and intelligent agent design  
-- Core ML: **scikit-learn**, regression, classification, k-NN, SVM, decision trees, ensemble methods, gradient boosting  
-- Neural networks: **CNNs, RNNs, LSTMs**, generative models (GANs)  
-- Fundamentals of **NLP** and **computer vision**  
-- Data science: EDA, pipelines, model evaluation and optimization  
-- GPU acceleration: **CUDA, Triton, TensorRT** (exploration)  
-
-> My focus is on understanding **how and why** models work, not only using high-level tools.
-
----
-
-## Currently
-
-- Building **[Aion](https://github.com/AkseL588)** (open research toolkit) and growing **[Aqwel AI](https://aqwelai.xyz)**
-- Deepening understanding of LLMs, RAG, and efficient inference
-- Writing on [Medium](https://medium.com/@AkselAghajanyan) and in the [Aksel with AI](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7401608552454201344) newsletter
+Python · NumPy/Pandas stack · **PyTorch** · **TensorFlow** · LLMs (LLaMA, APIs, LangChain) · RAG · **Qdrant / Pinecone / Weaviate** · classical ML & **scikit-learn** · CNNs, RNNs, LSTMs, GANs · NLP & CV · **CUDA / Triton / TensorRT** (exploration) · *focus: how & why models work*
 
 ---
 
 ## Data Science
 
-- **NumPy** — numerical computing, arrays, linear algebra  
-- **Pandas** — data manipulation, cleaning, analysis, time series  
-- **Matplotlib** & **Seaborn** — visualization, EDA, statistical plots  
-- **SciPy** — scientific computing, optimization, statistics  
-- **scikit-learn** — preprocessing, model selection, evaluation, pipelines  
-- **Jupyter** — interactive notebooks for analysis and experimentation  
-- Exploratory data analysis (EDA), feature engineering, model evaluation  
-- Statistics, hypothesis testing, and communicating insights  
+**NumPy** · **Pandas** · **Matplotlib** / **Seaborn** · **SciPy** · **scikit-learn** · **Jupyter** · EDA · feature engineering · stats & hypothesis testing
 
 ---
 
 ## Mathematics for AI / ML / DS — In Progress
 
-- **Linear algebra** — vectors, matrices, eigenvalues, eigenvectors, SVD, norms, inner products  
-- **Probability** — distributions, Bayes’ rule, expectation, variance, conditional probability  
-- **Statistics** — estimation, hypothesis testing, confidence intervals, regression theory  
-- **Calculus** — derivatives, partial derivatives, chain rule, gradients, Jacobians  
-- **Optimization** — gradient descent, convexity, loss surfaces, convergence  
-- **Random matrix theory** — spectra, concentration, applications in ML (e.g. double descent)  
-- **Information theory** — entropy, mutual information, coding, capacity  
-- **Discrete math & logic** — sets, graphs, combinatorics, formal reasoning for algorithms  
+Linear algebra · probability & statistics · calculus & gradients · optimization · random matrix theory · information theory · discrete math & logic
 
 ---
 
 ## Automation & Bots
 
-- Telegram bots with **Python** and `pyTelegramBotAPI`  
-- LLM integration for intelligent automation  
-- Real-time message handling with contextual memory  
+**Python** · Telegram (`pyTelegramBotAPI`) · LLM automation · contextual memory
 
 ---
 
 ## Prompt Engineering
 
-- **Structured prompts** — clear instructions, role-setting, and output format control  
-- **Few-shot & zero-shot** — in-context learning and chain-of-thought reasoning  
-- **RAG-oriented prompting** — query formulation and retrieval-augmented workflows  
-- **Agent design** — task decomposition, tool use, and multi-step reasoning  
-- **Optimization** — iterating on clarity, specificity, and model behavior  
-- **APIs** — **OpenAI**, **Anthropic**, **LangChain**, and custom LLM integrations  
+Structured & few/zero-shot prompts · RAG-style prompting · agents · **OpenAI** · **Anthropic** · **LangChain**
 
 ---
 
 ## Research Interests & Long-Term Vision
 
-- Artificial intelligence and intelligent agents  
-- Deep learning and large language models  
-- Mathematics for AI and optimization  
-- GPU-accelerated computing and efficient inference  
-- Building reliable, scalable AI-backed systems  
+Agents · DL & LLMs · math for AI · GPU inference · reliable, scalable AI systems
 
 ---
 
 ## Game Development (Hobby)
 
-Game development is a personal interest and experimental space.
-
-- **Unreal Engine 5** (Blueprints, basic C++)  
-- Gameplay prototyping and environment design  
-- AI behavior trees, cutscenes, cinematic tools  
-- Using games as a sandbox for AI, simulation, and systems thinking  
+**Unreal Engine 5** · Blueprints / C++ · prototyping · AI behavior trees · AI & systems sandbox
 
 ---
 
