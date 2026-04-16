@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.png" alt="Aksel Aghajanyan — Data Science · ML Research · Aqwel AI" width="100%" />
+<img src="./profile-banner.png" alt="Aksel Aghajanyan — Data Science · ML Research · Aqwel AI" width="100%" style="max-height: 140px; object-fit: cover;" />
 
 # Aksel Aghajanyan
 
