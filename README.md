@@ -6,6 +6,8 @@
 **Data Scientist & ML Researcher | Founder of Aqwel AI | Working on Applied ML and Mathematical Modeling**
 
 *Also building [Aion](https://github.com/AkseL588) (Open Research Toolkit).*
+
+**More information:** [akselaghajanyan.xyz](https://akselaghajanyan.xyz)
 </div>
 
 
@@ -99,7 +101,7 @@ Agents · DL & LLMs · math for AI · GPU inference · reliable, scalable AI sys
 
 Open to **research collaboration**, **internships**, and **ML engineering** opportunities. Happy to discuss AI, deep learning, or building intelligent systems.
 
-Reach out via [LinkedIn](https://linkedin.com/in/aksel-aghajanyan).
+Reach out via [LinkedIn](https://linkedin.com/in/aksel-aghajanyan) · more at [akselaghajanyan.xyz](https://akselaghajanyan.xyz).
 
 ---
 
@@ -113,5 +115,6 @@ Reach out via [LinkedIn](https://linkedin.com/in/aksel-aghajanyan).
 
 [![GitHub](https://img.shields.io/badge/GitHub-AkseL588-181717?style=flat-square&logo=github)](https://github.com/AkseL588)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aksel%20Aghajanyan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aksel-aghajanyan)
+[![Website](https://img.shields.io/badge/Website-akselaghajanyan.xyz-0d9488?style=flat-square)](https://akselaghajanyan.xyz)
 
 </div>
