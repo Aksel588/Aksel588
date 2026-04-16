@@ -81,13 +81,7 @@ Agents · DL & LLMs · math for AI · GPU inference · reliable, scalable AI sys
 
 <img src="./logo_website.png" alt="Aqwel AI logo" width="80">
 
-Founder of **[Aqwel AI](https://aqwelai.xyz)**, an early-stage initiative focused on learning, experimentation, and open development of **AI-powered tools**.
-
-- AI experimentation and learning  
-- Intelligent automation  
-- Open research & tooling (e.g. **Aion**)  
-
-**Website:** [aqwelai.xyz](https://aqwelai.xyz)  
+**[Aqwel AI](https://aqwelai.xyz)** — learning, experimentation, open **AI-powered tools** · automation · research & tooling (**Aion**)
 
 ---
 
