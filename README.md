@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./readme-header.png" alt="Aksel Aghajanyan — Data Scientist &amp; ML Researcher · Aqwel AI · Applied ML &amp; mathematical modeling" title="Aksel Aghajanyan" width="100%" style="max-height: 140px; object-fit: cover;" />
 
 # Aksel Aghajanyan
 
