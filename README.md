@@ -8,6 +8,8 @@
 *Also building [Aion](https://github.com/AkseL588) (Open Research Toolkit).*
 
 **More information:** [akselaghajanyan.xyz](https://akselaghajanyan.xyz)
+
+*With AI power, I can do everything ;)*  
 </div>
 
 
