@@ -9,9 +9,8 @@
 
 **More information:** [akselaghajanyan.xyz](https://akselaghajanyan.xyz)
 
-*With AI power, I can do everything ;)*
-
-<br>
+*With AI power, I can do everything ;)*  
+</div>
 
 
 
