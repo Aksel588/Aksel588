@@ -13,10 +13,6 @@
 
 <br>
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseL588&layout=compact&hide_border=true&theme=transparent&langs_count=8&card_width=450)](https://github.com/AkseL588)
-
-</div>
-
 
 
 ---
