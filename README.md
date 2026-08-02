@@ -32,21 +32,10 @@ I write **scientific articles** on [Medium](https://medium.com/@AkselAghajanyan)
 
 [Medium](https://medium.com/@AkselAghajanyan) — AI, ML theory, math.
 
-<!-- BLOG-POST-LIST:START -->
 - [Double descent & overparameterization](https://medium.com/frontiers-of-data-science/the-geometry-of-the-double-descent-how-overparameterized-models-learn-beyond-classical-limits-10fbbaee56ff)
 - [Random matrix theory in ML](https://medium.com/frontiers-of-data-science/random-matrix-theory-visualizing-mathematics-and-its-applications-in-machine-learning-45aaf14fe829)
 - [Mathematical reasoning & limits of AI](https://medium.com/@AkselAghajanyan/why-mathematical-reasoning-exposes-the-limits-of-ai-437ded440936)
 - [Bigger models ≠ smarter AI](https://medium.com/@AkselAghajanyan/why-bigger-models-dont-automatically-mean-smarter-ai-fcdbb0789ea6)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## GitHub Stats & Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkseL588&show_icons=true&theme=dark&hide_border=true" alt="Aksel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkseL588&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
