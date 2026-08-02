@@ -95,7 +95,7 @@ Agents · DL & LLMs · math for AI · GPU inference · reliable, scalable AI sys
 
 [![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7401608552454201344)
 
-*Published weekly · 140+ subscribers*
+*Published weekly · 142+ subscribers*
 
 ---
 
