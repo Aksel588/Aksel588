@@ -32,6 +32,9 @@ I write **scientific articles** on [Medium](https://medium.com/@AkselAghajanyan)
 
 [Medium](https://medium.com/@AkselAghajanyan) — AI, ML theory, math.
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 - [Double descent & overparameterization](https://medium.com/frontiers-of-data-science/the-geometry-of-the-double-descent-how-overparameterized-models-learn-beyond-classical-limits-10fbbaee56ff)
 - [Random matrix theory in ML](https://medium.com/frontiers-of-data-science/random-matrix-theory-visualizing-mathematics-and-its-applications-in-machine-learning-45aaf14fe829)
 - [Mathematical reasoning & limits of AI](https://medium.com/@AkselAghajanyan/why-mathematical-reasoning-exposes-the-limits-of-ai-437ded440936)
