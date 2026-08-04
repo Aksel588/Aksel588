@@ -33,6 +33,11 @@ I write **scientific articles** on [Medium](https://medium.com/@AkselAghajanyan)
 [Medium](https://medium.com/@AkselAghajanyan) — AI, ML theory, math.
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Fable 5 and the Shift From Response-Based Models Toward Persistent Computational…](https://medium.com/@AkselAghajanyan/claude-fable-5-and-the-shift-from-response-based-models-toward-persistent-computational-bcafc2c0266e?source=rss-cd63bb2903c1------2)
+- [Unreal Engine 5.7: Toward Real-Time Worlds at Cinematic Scale](https://medium.com/@AkselAghajanyan/unreal-engine-5-7-toward-real-time-worlds-at-cinematic-scale-9578dafc6405?source=rss-cd63bb2903c1------2)
+- [Why AI Agents Need More Than Language: The Missing Architecture Behind Autonomous Intelligence](https://medium.com/@AkselAghajanyan/why-ai-agents-need-more-than-language-the-missing-architecture-behind-autonomous-intelligence-74646cec38b1?source=rss-cd63bb2903c1------2)
+- [PCA Explained: How to Simplify Your Data Without Losing the Story.](https://medium.com/@AkselAghajanyan/pca-explained-how-to-simplify-your-data-without-losing-the-story-cd1214714454?source=rss-cd63bb2903c1------2)
+- [Random Matrix Theory: Visualizing Mathematics and Its Applications in Machine Learning](https://medium.com/@AkselAghajanyan/random-matrix-theory-visualizing-mathematics-and-its-applications-in-machine-learning-45aaf14fe829?source=rss-cd63bb2903c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 - [Double descent & overparameterization](https://medium.com/frontiers-of-data-science/the-geometry-of-the-double-descent-how-overparameterized-models-learn-beyond-classical-limits-10fbbaee56ff)
