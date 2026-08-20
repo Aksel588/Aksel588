@@ -5,7 +5,7 @@
 
 **Data Scientist & ML Researcher | Founder of Aqwel AI | Working on Applied ML and Mathematical Modeling**
 
-*Also building [Aion](https://github.com/AkseL588) (Open Research Toolkit).*
+*Also building [PyTekt](https://www.linkedin.com/company/pytekt/?viewAsMember=true) (Open Research Toolkit).*
 
 **More information:** [akselaghajanyan.xyz](https://akselaghajanyan.xyz)
 
@@ -93,7 +93,7 @@ Agents · DL & LLMs · math for AI · GPU inference · reliable, scalable AI sys
 
 <img src="./logo_website.png" alt="Aqwel AI logo" width="80">
 
-**[Aqwel AI](https://aqwelai.xyz)** — learning, experimentation, open **AI-powered tools** · automation · research & tooling (**Aion**)
+**[Aqwel AI](https://aqwelai.xyz)** — learning, experimentation, open **AI-powered tools** · automation · research & tooling ([**PyTekt**](https://www.linkedin.com/company/pytekt/?viewAsMember=true))
 
 ---
 
