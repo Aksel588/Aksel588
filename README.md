@@ -92,11 +92,14 @@ Agents · DL & LLMs · math for AI · GPU inference · reliable, scalable AI sys
 
 ---
 
-## Founder — Aqwel AI
+## Founder — Aqwel AI & PyTekt
 
-<img src="./logo_website.png" alt="Aqwel AI logo" width="80">
+<a href="https://aqwelai.xyz"><img src="./logo/logo_website.png" alt="Aqwel AI logo" width="80"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/pytekt/?viewAsMember=true"><img src="./logo/pytekt_logo.jpeg" alt="PyTekt logo" width="80"></a>
 
-**[Aqwel AI](https://aqwelai.xyz)** — learning, experimentation, open **AI-powered tools** · automation · research & tooling ([**PyTekt**](https://www.linkedin.com/company/pytekt/?viewAsMember=true))
+- **[Aqwel AI](https://aqwelai.xyz)** — learning, experimentation, open **AI-powered tools** · automation.
+- **[PyTekt](https://www.linkedin.com/company/pytekt/?viewAsMember=true)** — Open Research Toolkit for applied ML and intelligent systems.
 
 ---
 
