@@ -46,7 +46,7 @@ I write **scientific articles** on [Medium](https://medium.com/@AkselAghajanyan)
 
 I wrote my first book: **[The Human Language of AI](https://akselaghajanyan.xyz/book/the-human-language-of-ai.pdf)** *(First Digital Edition)*.
 
-📖 **[Read / Download (PDF)](https://akselaghajanyan.xyz/book/the-human-language-of-ai.pdf)**
+**[Read / Download (PDF)](https://akselaghajanyan.xyz/book/the-human-language-of-ai.pdf)**
 
 ---
 
