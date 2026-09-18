@@ -113,6 +113,20 @@ Agents · DL & LLMs · math for AI · GPU inference · reliable, scalable AI sys
 
 ---
 
+## Community — AIDT (AI & Data Tech)
+
+Welcome to **AIDT** — a tech community and daily feed for the latest in Artificial Intelligence, Machine Learning, and Data Science. Join us for breakthrough research, tech news, and discussions on the technologies shaping the future.
+
+- Daily updates on AI, Machine Learning, and Data Science
+- Breakthrough research papers and industry developments
+- Discussions on modern AI architectures and tech innovations
+
+[![Join on Telegram](https://img.shields.io/badge/Join_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIanDT)
+
+*Join on Telegram: [t.me/AIanDT](https://t.me/AIanDT)*
+
+---
+
 ## Let's connect
 
 Open to **research collaboration**, **internships**, and **ML engineering** opportunities. Happy to discuss AI, deep learning, or building intelligent systems.
@@ -132,5 +146,6 @@ Reach out via [LinkedIn](https://linkedin.com/in/aksel-aghajanyan) · more at [a
 [![GitHub](https://img.shields.io/badge/GitHub-AkseL588-181717?style=flat-square&logo=github)](https://github.com/AkseL588)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aksel%20Aghajanyan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aksel-aghajanyan)
 [![Website](https://img.shields.io/badge/Website-akselaghajanyan.xyz-0d9488?style=flat-square)](https://akselaghajanyan.xyz)
+[![Telegram](https://img.shields.io/badge/Telegram-AIDT-2CA5E0?style=flat-square&logo=telegram)](https://t.me/AIanDT)
 
 </div>
