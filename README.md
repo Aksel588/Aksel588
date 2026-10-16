@@ -3,9 +3,9 @@
 
 # Aksel Aghajanyan
 
-**Data Scientist & ML Researcher | Founder of Aqwel AI | Working on Applied ML and Mathematical Modeling**
+**Data Scientist & ML Researcher | Founder of Aqwel AI |**
 
-*Also building [PyTekt](https://www.linkedin.com/company/pytekt/?viewAsMember=true) (Open Research Toolkit).*
+*Also building [PyTekt](https://www.linkedin.com/company/pytekt/?viewAsMember=true) (Open Research Toolkit) and [OpenKL](https://github.com/Aksel588/openkl) (Hardware-Accelerated Columnar Engine).*
 
 **More information:** [akselaghajanyan.xyz](https://akselaghajanyan.xyz)
 
@@ -92,7 +92,7 @@ Agents · DL & LLMs · math for AI · GPU inference · reliable, scalable AI sys
 
 ---
 
-## Founder — Aqwel AI & PyTekt
+## Founder — Aqwel AI, PyTekt & OpenKL
 
 <a href="https://aqwelai.xyz"><img src="./logo/logo_website.png" alt="Aqwel AI logo" width="80"></a>
 &nbsp;&nbsp;
@@ -100,6 +100,7 @@ Agents · DL & LLMs · math for AI · GPU inference · reliable, scalable AI sys
 
 - **[Aqwel AI](https://aqwelai.xyz)** — learning, experimentation, open **AI-powered tools** · automation.
 - **[PyTekt](https://www.linkedin.com/company/pytekt/?viewAsMember=true)** — Open Research Toolkit for applied ML and intelligent systems.
+- **[OpenKL](https://github.com/Aksel588/openkl)** — High-performance, hardware-accelerated columnar analytical engine for machine learning and big data (C++/Python, Metal/CUDA, zero-copy, Pandas-compatible).
 
 ---
 
