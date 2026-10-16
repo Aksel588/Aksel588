@@ -3,7 +3,7 @@
 
 # Aksel Aghajanyan
 
-**Data Scientist & ML Researcher | Founder of Aqwel AI |**
+**AI/ML & Data Science Student | Python Developer | Creator of OpenKL | Technical Author & Medium Writer**
 
 *Also building [PyTekt](https://www.linkedin.com/company/pytekt/?viewAsMember=true) (Open Research Toolkit) and [OpenKL](https://github.com/Aksel588/openkl) (Hardware-Accelerated Columnar Engine).*
 
